@@ -47,7 +47,7 @@ function App() {
   const [screen, setScreen] = useState("entry");
   const [showMessage, setShowMessage] = useState(false);
   const [activeStep, setActiveStep] = useState(null);
-  const correctDate = "04/02/1999";
+  const correctDate = "04/03/1999";
   const [loveScreen, setLoveScreen] = useState(false);
   const [heartsActive, setHeartsActive] = useState(false);
   const [showBigText, setShowBigText] = useState(false);
